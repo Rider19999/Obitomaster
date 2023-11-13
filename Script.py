@@ -7,7 +7,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/ahadhussain786>⚡ Ahad Hussain⚡</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/upgradjjdhfde_botz>update 👾</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/upgradjjdhfde_botz>update 🫤🫤</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.0 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
