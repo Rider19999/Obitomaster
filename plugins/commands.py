@@ -25,6 +25,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
+InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='buy_premium') 
+                ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -47,6 +49,8 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('🍄 ʜᴇʟᴘ 🍄', callback_data='help'),
                     InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ 🔰', callback_data='about')
+                ],[
+InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='buy_premium') 
                 ],[
                     InlineKeyboardButton('💰 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 💸', callback_data="shortlink_info")
                   ]]
@@ -95,6 +99,8 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('🍄 ʜᴇʟᴘ 🍄', callback_data='help'),
                     InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ 🔰', callback_data='about')
+                ],[
+InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='buy_premium') 
                 ],[
                     InlineKeyboardButton('💰 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 💸', callback_data="shortlink_info")
                   ]]
