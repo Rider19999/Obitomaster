@@ -12,8 +12,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.0 [Sᴛᴀʙʟᴇ]</b>"""
 
         PREMIUM_TXT = 
-"""<b>Join a Prime membership to get free movie without any ads Your time is valuable, Stop watching ads and simply avoid the stupidity
-</a>
+"""<b>Join a Prime membership to get free movie without any ads Your time is valuable, Stop watching ads and simply avoid the stupidity</a>
 
 Prime Membership Progress
 1 week - 10 Rs
