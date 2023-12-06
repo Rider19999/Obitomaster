@@ -241,7 +241,7 @@ InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='
                 protect_content=True
             )
             await verify_user(client, userid, token)
-                    reply_markup=InlineKeyboardMarkup(btn)
+                    reply_markup=InlineKeyboardMarkup(buttons)
                 )
                 return
             btn = [[
