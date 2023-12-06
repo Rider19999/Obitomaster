@@ -11,9 +11,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/+RJA5879oHfVjZGQ9>🎲Bot updates 🪈</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.0 [Sᴛᴀʙʟᴇ]</b>"""
 
-        PREMIUM_TXT = """<b>Join a Prime membership to get free movie without any ads
-Your time is valuable, Stop watching ads and simply avoid the stupidity
-</a>
+        PREMIUM_TXT = """Join a Prime membership to get free movie without any ads
+Your time is valuable, Stop watching ads and simply avoid the stupidity
 
 Prime Membership Progress
 
@@ -34,7 +33,7 @@ Would you like to become a Prime Member? Follow these steps:-
 
 send screenshot @V_Sbotmaker
 
-Any doubts or how to become a prime member? contact me @V_Sbotmaker @VS_bots</code></b>"""
+Any doubts or how to become a prime member? contact me @V_Sbotmaker @VS_bots"""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
