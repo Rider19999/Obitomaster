@@ -241,12 +241,6 @@ InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='
                 protect_content=True
             )
             await verify_user(client, userid, token)
-                    reply_markup=InlineKeyboardMarkup(btn)
-                )
-                return
-            btn = [[
-                InlineKeyboardButton("✅ Get File ✅", url=f"https://telegram.me/{temp.U_NAME}?start=files_{fileid}")
-            ]]
         else:
             return await message.reply_text(
                 text="<b>Invalid link or Expired link !</b>",
@@ -320,7 +314,7 @@ InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='
                 f_caption = f"{' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), files1.file_name.split()))}"
             if not await check_verification(client, message.from_user.id) and VERIFY == True:
                 btn = [[
-                    InlineKeyboardButton("Verify", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start=", file_id))
+                    InlineKeyboardButton("Verify", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start=",{file_id}))
                 ]]
                 await message.reply_text(
                     text="<b>You are not verified !\nKindly verify to continue !</b>",
