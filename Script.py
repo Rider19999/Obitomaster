@@ -246,7 +246,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ░░░██║░░░░░░██║░░░  ██████╦╝╚█████╔╝░░░██║░░░██████╔╝
 ░░░╚═╝░░░░░░╚═╝░░░  ╚═════╝░░╚════╝░░░░╚═╝░░░╚═════╝░"""
 
-    PREMIUM_TXT = """<b>Join a Prime membership to get free movie without any ads
+    PREMIUM_TXT = """<b>Buy a Prime membership to get free movie without any ads
 Your time is valuable, Stop watching ads and simply avoid the stupidity
 </a>
 
