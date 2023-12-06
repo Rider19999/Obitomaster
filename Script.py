@@ -11,16 +11,17 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/+RJA5879oHfVjZGQ9>🎲Bot updates 🪈</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.0 [Sᴛᴀʙʟᴇ]</b>"""
 
-        PREMIUM_TXT = 
-"""<b>Join a Prime membership to get free movie without any ads Your time is valuable, Stop watching ads and simply avoid the stupidity</a>
+        PREMIUM_TXT = """<b>Join a Prime membership to get free movie without any ads
+Your time is valuable, Stop watching ads and simply avoid the stupidity
+</a>
 
 Prime Membership Progress
-1 week - 10 Rs
+
 1 month - 40 Rs
 
-3 Months – 120 RS
+3 Months – 100 RS
 
-6 months - 230 Rs
+6 months - 200 Rs
 
 12 Months - 450 Rs [1 Month Free Trial]
 
