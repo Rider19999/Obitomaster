@@ -1374,6 +1374,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('🍄 ʜᴇʟᴘ 🍄', callback_data='help'),
                     InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ 🔰', callback_data='about')
                 ],[
+InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='buy_premium') 
+                ],[
                     InlineKeyboardButton('💰 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 💸', callback_data="shortlink_info")
                   ]]
         
