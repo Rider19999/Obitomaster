@@ -11,8 +11,6 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/+RJA5879oHfVjZGQ9>🎲Bot updates 🪈</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.0 [Sᴛᴀʙʟᴇ]</b>"""
 
-    PREMIUM_TXT = """ADD YOUR PLAN ON SCRIPT.PY"""
-
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 """
