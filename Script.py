@@ -16,7 +16,7 @@ Your time is valuable, Stop watching ads and simply avoid the stupidity
 </a>
 
 Prime Membership Progress
-
+1 week - 10 Rs
 1 month - 40 Rs
 
 3 Months – 120 RS
