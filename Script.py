@@ -11,8 +11,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/+RJA5879oHfVjZGQ9>🎲Bot updates 🪈</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.0 [Sᴛᴀʙʟᴇ]</b>"""
 
-   PREMIUM_TXT = """
-<b>Join a Prime group to get free movie without any ads Your time is valuable, Stop watching ads and simply avoid the stupidity."""
+   PREMIUM_TXT = """<b>Join a Prime group to get free movie without any ads Your time is valuable, Stop watching ads and simply avoid the stupidity."""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
