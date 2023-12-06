@@ -11,29 +11,29 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/+RJA5879oHfVjZGQ9>🎲Bot updates 🪈</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.0 [Sᴛᴀʙʟᴇ]</b>"""
 
-        PREMIUM_TXT = """ <b>Join a Prime membership to get free movie without any ads <a Your time is valuable, Stop watching ads and simply avoid the stupidity</a></b>
-<a
-Prime Membership Progress</a></b>
-<a
+        PREMIUM_TXT = """<b>Join a Prime group to get free movie without any ads
+Your time is valuable, Stop watching ads and simply avoid the stupidity
+<a href='https://telegram.me/+uaYeWVMRrk2Zjk1'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
+
+Prime Membership Progress
+
 1 month - 40 Rs
 
-3 Months – 100 RS
+3 Months – 120 RS
 
-6 months - 200 Rs
+6 months - 230 Rs
 
 12 Months - 450 Rs [1 Month Free Trial]
-</a></b>
-<a
-♛ UPI ID »»————>  oklink@axl
+
+♛ UPI ID »»————> oklink@okicici
+
 Would you like to become a Prime Member? Follow these steps:-
 
 ✤ Step 1: Go to any payment app like Google PAY, PAYTM,
 ✤ Step 2: Pay using UPI ID depending on your plan.
 ✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
 
-send screenshot @V_Sbotmaker
-
-Any doubts or how to become a prime member? contact me @V_Sbotmaker @VS_bots</a></b>"""
+Any doubts or how to become a prime member? contact me @V_Sbotmaker</code></b>"""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
