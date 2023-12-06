@@ -11,11 +11,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/+RJA5879oHfVjZGQ9>🎲Bot updates 🪈</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.0 [Sᴛᴀʙʟᴇ]</b>"""
 
-        PREMIUM_TXT = """ <b>Join a Prime membership to get free movie without any ads
-Your time is valuable, Stop watching ads and simply avoid the stupidity
-
-Prime Membership Progress
-
+        PREMIUM_TXT = """ <b>Join a Prime membership to get free movie without any ads <a Your time is valuable, Stop watching ads and simply avoid the stupidity</a></b>
+<a
+Prime Membership Progress</a></b>
+<a
 1 month - 40 Rs
 
 3 Months – 100 RS
@@ -23,7 +22,8 @@ Prime Membership Progress
 6 months - 200 Rs
 
 12 Months - 450 Rs [1 Month Free Trial]
-
+</a></b>
+<a
 ♛ UPI ID »»————>  oklink@axl
 Would you like to become a Prime Member? Follow these steps:-
 
@@ -33,7 +33,7 @@ Would you like to become a Prime Member? Follow these steps:-
 
 send screenshot @V_Sbotmaker
 
-Any doubts or how to become a prime member? contact me @V_Sbotmaker @VS_bots</b>"""
+Any doubts or how to become a prime member? contact me @V_Sbotmaker @VS_bots</a></b>"""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
